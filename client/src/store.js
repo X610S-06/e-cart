@@ -27,3 +27,5 @@ const store = createStore(
 )
 
 export default store
+
+//constants->reducers->actions->store->screen

@@ -1,4 +1,4 @@
-# E-Cart
+# E - Cart
 Development Phase
 
 This is an e-commerce platform for online shopping, mutual buying and selling of products takes place.
